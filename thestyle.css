@@ -1,0 +1,26 @@
+body {
+background-color:lightblue ;
+}
+h1 {
+text-align:center;
+color:white;
+}
+table, th, td {
+border:1px solid white;
+padding:15px;
+}
+table{
+width:100%
+}
+th {
+background-color:hotpink;
+color:white;
+}
+div {
+text-align:center;
+}
+footer{
+background-color:hotpink;
+padding: 10px;
+text-align: center;
+}
